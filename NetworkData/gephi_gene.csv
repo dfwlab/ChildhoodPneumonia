@@ -1,0 +1,87 @@
+id	label	markers
+AHSP	AHSP	Hemoglobin
+BLVRB	BLVRB	Hemoglobin
+CD163	CD163	Hemoglobin
+DGKK	DGKK	Hemoglobin
+HBA1	HBA1	Hemoglobin
+HBA2	HBA2	Hemoglobin
+HBAP1	HBAP1	Hemoglobin
+HBB	HBB	Hemoglobin
+HBBP1	HBBP1	Hemoglobin
+HBD	HBD	Hemoglobin
+HBD	HBD	Hemoglobin
+HBE1	HBE1	Hemoglobin
+HBFQTL2	HBFQTL2	Hemoglobin
+HBFQTL4	HBFQTL4	Hemoglobin
+HBG1	HBG1	Hemoglobin
+HBG2	HBG2	Hemoglobin
+HBM	HBM	Hemoglobin
+HBQ1	HBQ1	Hemoglobin
+HBZ	HBZ	Hemoglobin
+HBZP1	HBZP1	Hemoglobin
+HPFH2	HPFH2	Hemoglobin
+NPRL3	NPRL3	Hemoglobin
+O2SAT	O2SAT	Oxygen saturation
+OXSAT	OXSAT	Oxygen saturation
+RHEX	RHEX	Hemoglobin
+ABCC9	ABCC9	Urea
+SLC14A1	SLC14A1	Urea
+SLC14A2	SLC14A2	Urea
+UAQTL3	UAQTL3	Uric acid
+UAQTL4	UAQTL4	Uric acid
+UAQTL5	UAQTL5	Uric acid
+UAQTL6	UAQTL6	Uric acid
+ABHD12	ABHD12	Lipase
+ABHD12B	ABHD12B	Lipase
+ABHD16A	ABHD16A	Lipase
+ABHD16A	ABHD16A	Lipase
+ABHD16A	ABHD16A	Lipase
+ABHD16A	ABHD16A	Lipase
+ABHD16A	ABHD16A	Lipase
+ABHD16A	ABHD16A	Lipase
+ABHD16A	ABHD16A	Lipase
+ABHD2	ABHD2	Lipase
+ABHD4	ABHD4	Lipase
+ABHD6	ABHD6	Lipase
+ANAPC13	ANAPC13	Lipase
+CEL	CEL	Lipase
+CELP	CELP	Lipase
+CES1	CES1	Lipase
+CES1	CES1	Lipase
+CLEC10A	CLEC10A	Lipase
+DAGLA	DAGLA	Lipase
+DAGLB	DAGLB	Lipase
+GTF3C5	GTF3C5	Lipase
+JUND	JUND	Lipase
+LIPA	LIPA	Lipase
+LIPB	LIPB	Lipase
+LIPC	LIPC	Lipase
+LIPE	LIPE	Lipase
+LIPF	LIPF	Lipase
+LIPG	LIPG	Lipase
+LIPH	LIPH	Lipase
+LIPI	LIPI	Lipase
+LIPJ	LIPJ	Lipase
+LIPK	LIPK	Lipase
+LIPM	LIPM	Lipase
+LIPN	LIPN	Lipase
+LMF1	LMF1	Lipase
+LMF2	LMF2	Lipase
+LPL	LPL	Lipase
+MGLL	MGLL	Lipase
+MOCOS	MOCOS	Lipase
+PHKG1	PHKG1	Lipase
+PLA1A	PLA1A	Lipase
+PLB1	PLB1	Lipase
+PNLIP	PNLIP	Lipase
+PNLIPP1	PNLIPP1	Lipase
+PNLIPRP1	PNLIPRP1	Lipase
+PNLIPRP2	PNLIPRP2	Lipase
+PNLIPRP3	PNLIPRP3	Lipase
+PNPLA2	PNPLA2	Lipase
+PNPLA3	PNPLA3	Lipase
+Hemoglobin	Hemoglobin	Hemoglobin
+Oxygen saturation	Oxygen saturation	Oxygen saturation
+Urea	Urea	Urea
+Uric acid	Uric acid	Uric acid
+Lipase	Lipase	Lipase
