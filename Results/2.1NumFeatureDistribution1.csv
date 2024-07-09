@@ -1,0 +1,76 @@
+"","Min","1st Qu","Median","Mean","3rd Qu","Max","NA"
+"SUBJECT_ID","Min.   :  677  ","1st Qu.:  961  ","Median : 2811  ","Mean   : 3302  ","3rd Qu.: 4218  ","Max.   :12288  ",NA
+"HADM_ID","Min.   :100672  ","1st Qu.:100979  ","Median :102892  ","Mean   :103385  ","3rd Qu.:104264  ","Max.   :112711  ",NA
+"ADMI_AGE","Min.   :  2.0  ","1st Qu.: 70.0  ","Median :146.0  ","Mean   :199.8  ","3rd Qu.:269.0  ","Max.   :923.0  ",NA
+"Time","Min.   : 0.00  ","1st Qu.: 2.50  ","Median : 8.00  ","Mean   :14.74  ","3rd Qu.:20.00  ","Max.   :99.00  ",NA
+"EXPIRE_FLAG","Min.   :1  ","1st Qu.:1  ","Median :1  ","Mean   :1  ","3rd Qu.:1  ","Max.   :1  ",NA
+"X5002.Eosinophils","Min.   :0.0000  ","1st Qu.:0.3000  ","Median :0.6000  ","Mean   :0.9932  ","3rd Qu.:1.3250  ","Max.   :6.0000  ","NA's   :7  "
+"X5021.ALB.GLB","Min.   :0.470  ","1st Qu.:1.620  ","Median :2.070  ","Mean   :2.067  ","3rd Qu.:2.510  ","Max.   :4.070  ","NA's   :8  "
+"X5022.adenosine.deaminase","Min.   :  0.40  ","1st Qu.: 11.32  ","Median : 16.95  ","Mean   : 21.28  ","3rd Qu.: 22.95  ","Max.   :134.00  ","NA's   :9  "
+"X5024.Albumin","Min.   :10.50  ","1st Qu.:33.55  ","Median :38.00  ","Mean   :36.70  ","3rd Qu.:40.60  ","Max.   :49.70  ","NA's   :8  "
+"X5025.Alkaline.Phosphatase","Min.   : 52.0  ","1st Qu.:131.5  ","Median :185.0  ","Mean   :218.9  ","3rd Qu.:252.0  ","Max.   :947.0  ","NA's   :8  "
+"X5026.Alanine.Aminotransferase..ALT.","Min.   :  4.00  ","1st Qu.: 18.75  ","Median : 26.00  ","Mean   : 57.24  ","3rd Qu.: 43.25  ","Max.   :608.00  ","NA's   :7  "
+"X5027.Amylase","Min.   :  2.000  ","1st Qu.:  9.375  ","Median : 14.000  ","Mean   : 25.385  ","3rd Qu.: 28.150  ","Max.   :213.000  ","NA's   :11  "
+"X5031.Asparate.Aminotransferase..AST.","Min.   :  20.0  ","1st Qu.:  40.0  ","Median :  54.0  ","Mean   : 116.8  ","3rd Qu.:  98.5  ","Max.   :1553.0  ","NA's   :8  "
+"X5033.Urea","Min.   : 0.860  ","1st Qu.: 2.510  ","Median : 3.685  ","Mean   : 4.185  ","3rd Qu.: 5.253  ","Max.   :13.490  ","NA's   :7  "
+"X5034.Calcium..Total","Min.   :1.170  ","1st Qu.:2.095  ","Median :2.210  ","Mean   :2.192  ","3rd Qu.:2.365  ","Max.   :2.770  ","NA's   :8  "
+"X5037.Cholesterol..Total","Min.   : 0.050  ","1st Qu.: 2.450  ","Median : 2.810  ","Mean   : 3.195  ","3rd Qu.: 3.620  ","Max.   :12.090  ","NA's   :8  "
+"X5038.Creatine.Kinase..CK.","Min.   :   3.0  ","1st Qu.:  73.5  ","Median : 124.0  ","Mean   : 340.1  ","3rd Qu.: 223.5  ","Max.   :3887.0  ","NA's   :8  "
+"X5039.Creatine.Kinase..MB.Isoenzyme","Min.   :   5.00  ","1st Qu.:  22.00  ","Median :  29.50  ","Mean   :  64.56  ","3rd Qu.:  49.25  ","Max.   :1774.00  ","NA's   :9  "
+"X5041.Creatinine","Min.   : 11.00  ","1st Qu.: 31.32  ","Median : 38.00  ","Mean   : 42.91  ","3rd Qu.: 50.42  ","Max.   :110.00  ","NA's   :9  "
+"X5042.Bilirubin..Direct","Min.   :  0.500  ","1st Qu.:  1.625  ","Median :  2.300  ","Mean   :  6.973  ","3rd Qu.:  5.975  ","Max.   :109.900  ","NA's   :9  "
+"X5045.Gamma.Glutamyltransferase","Min.   :  8.0  ","1st Qu.: 18.5  ","Median : 37.0  ","Mean   : 45.3  ","3rd Qu.: 61.0  ","Max.   :230.0  ","NA's   :8  "
+"X5046.Globulin","Min.   : 9.20  ","1st Qu.:15.40  ","Median :18.20  ","Mean   :19.68  ","3rd Qu.:22.35  ","Max.   :42.80  ","NA's   :8  "
+"X5055.Bilirubin..Indirect","Min.   :  0.100  ","1st Qu.:  2.625  ","Median :  4.000  ","Mean   : 13.067  ","3rd Qu.:  7.200  ","Max.   :179.000  ","NA's   :9  "
+"X5057.Lactate.Dehydrogenase..LD.","Min.   :  11.0  ","1st Qu.: 338.0  ","Median : 482.0  ","Mean   : 694.6  ","3rd Qu.: 743.5  ","Max.   :4514.0  ","NA's   :8  "
+"X5072.Phosphate","Min.   :0.740  ","1st Qu.:1.530  ","Median :1.880  ","Mean   :1.948  ","3rd Qu.:2.145  ","Max.   :4.880  ","NA's   :8  "
+"X5074.Total.Bile.Acid","Min.   : 0.70  ","1st Qu.: 3.10  ","Median : 6.00  ","Mean   :11.43  ","3rd Qu.:12.90  ","Max.   :80.00  ","NA's   :10  "
+"X5075.Bilirubin..Total","Min.   :  1.30  ","1st Qu.:  4.60  ","Median :  7.20  ","Mean   : 20.44  ","3rd Qu.: 13.43  ","Max.   :217.40  ","NA's   :11  "
+"X5077.Triglycerides","Min.   : 0.010  ","1st Qu.: 0.710  ","Median : 1.030  ","Mean   : 1.383  ","3rd Qu.: 1.590  ","Max.   :11.990  ","NA's   :8  "
+"X5078.Protein..Total","Min.   :19.70  ","1st Qu.:51.55  ","Median :56.60  ","Mean   :55.78  ","3rd Qu.:61.05  ","Max.   :73.20  ","NA's   :8  "
+"X5083.Uric.Acid..Urine","Min.   :  57.0  ","1st Qu.: 173.4  ","Median : 269.0  ","Mean   : 329.2  ","3rd Qu.: 418.2  ","Max.   :1129.9  ","NA's   :8  "
+"X5094.Neutrophils","Min.   : 0.55  ","1st Qu.: 3.21  ","Median : 5.96  ","Mean   : 6.90  ","3rd Qu.: 9.16  ","Max.   :23.42  ","NA's   :8  "
+"X5095.Neutrophils..","Min.   :21.10  ","1st Qu.:42.00  ","Median :56.55  ","Mean   :56.85  ","3rd Qu.:71.88  ","Max.   :93.00  ","NA's   :7  "
+"X5097.Hematocrit","Min.   : 5.10  ","1st Qu.:29.80  ","Median :32.70  ","Mean   :32.55  ","3rd Qu.:35.40  ","Max.   :52.00  ","NA's   :6  "
+"X5099.Hemoglobin","Min.   : 13.0  ","1st Qu.: 94.0  ","Median :104.0  ","Mean   :104.4  ","3rd Qu.:117.0  ","Max.   :171.0  ","NA's   :6  "
+"X5110.Absolute.Lymphocyte.Count","Min.   : 0.000  ","1st Qu.: 1.580  ","Median : 3.250  ","Mean   : 4.294  ","3rd Qu.: 5.690  ","Max.   :30.680  ","NA's   :8  "
+"X5111.Lymphocytes..Percent","Min.   : 3.00  ","1st Qu.:22.05  ","Median :34.90  ","Mean   :35.73  ","3rd Qu.:49.45  ","Max.   :69.60  ","NA's   :7  "
+"X5113.MCH","Min.   :18.80  ","1st Qu.:26.50  ","Median :28.30  ","Mean   :28.48  ","3rd Qu.:30.80  ","Max.   :38.50  ","NA's   :6  "
+"X5114.MCHC","Min.   :256.0  ","1st Qu.:312.0  ","Median :321.0  ","Mean   :320.1  ","3rd Qu.:332.0  ","Max.   :354.0  ","NA's   :6  "
+"X5115.MCV","Min.   : 66.70  ","1st Qu.: 83.30  ","Median : 88.50  ","Mean   : 88.87  ","3rd Qu.: 93.30  ","Max.   :120.70  ","NA's   :6  "
+"X5120.Mean.Platelet.Volume..MPV.","Min.   : 6.400  ","1st Qu.: 8.425  ","Median : 9.300  ","Mean   : 9.316  ","3rd Qu.:10.100  ","Max.   :11.700  ","NA's   :13  "
+"X5127.PCT","Min.   :0.0100  ","1st Qu.:0.1900  ","Median :0.2700  ","Mean   :0.2948  ","3rd Qu.:0.3700  ","Max.   :0.8700  ","NA's   :8  "
+"X5128.Platelet.distribution.width","Min.   : 8.7  ","1st Qu.:15.5  ","Median :15.9  ","Mean   :15.3  ","3rd Qu.:16.4  ","Max.   :18.2  ","NA's   :9  "
+"X5129.Platelet.Count","Min.   :  3.0  ","1st Qu.:204.0  ","Median :296.0  ","Mean   :311.7  ","3rd Qu.:398.0  ","Max.   :950.0  ","NA's   :6  "
+"X5132.Red.Blood.Cells","Min.   :0.420  ","1st Qu.:3.220  ","Median :3.770  ","Mean   :3.694  ","3rd Qu.:4.070  ","Max.   :5.320  ","NA's   :6  "
+"X5136.RDW","Min.   :11.30  ","1st Qu.:13.20  ","Median :14.50  ","Mean   :14.89  ","3rd Qu.:15.80  ","Max.   :29.30  ","NA's   :6  "
+"X5141.WBC.Count","Min.   : 0.59  ","1st Qu.: 6.02  ","Median :10.38  ","Mean   :12.80  ","3rd Qu.:16.72  ","Max.   :48.80  ","NA's   :6  "
+"X5211.Base.Excess","Min.   :-27.500  ","1st Qu.: -6.300  ","Median : -2.700  ","Mean   : -3.342  ","3rd Qu.:  1.300  ","Max.   : 15.600  ",NA
+"X5215.Calcium..Total","Min.   :0.680  ","1st Qu.:1.060  ","Median :1.150  ","Mean   :1.151  ","3rd Qu.:1.250  ","Max.   :1.470  ",NA
+"X5218.Chloride..Whole.Blood","Min.   : 81.0  ","1st Qu.:101.5  ","Median :106.0  ","Mean   :105.2  ","3rd Qu.:109.0  ","Max.   :121.0  ",NA
+"X5219.Carboxyhemoglobin","Min.   :0.000  ","1st Qu.:0.700  ","Median :1.300  ","Mean   :1.206  ","3rd Qu.:1.650  ","Max.   :3.500  ",NA
+"X5223.Glucose","Min.   : 1.200  ","1st Qu.: 5.100  ","Median : 5.900  ","Mean   : 7.134  ","3rd Qu.: 7.700  ","Max.   :22.500  ","NA's   :6  "
+"X5224.Calculated.Bicarbonate..Whole.Blood","Min.   : 3.40  ","1st Qu.:19.40  ","Median :22.50  ","Mean   :22.73  ","3rd Qu.:26.20  ","Max.   :45.30  ","NA's   :1  "
+"X5225.Hematocrit","Min.   :16.70  ","1st Qu.:28.80  ","Median :32.90  ","Mean   :33.02  ","3rd Qu.:36.35  ","Max.   :51.10  ",NA
+"X5226.Potassium","Min.   :2.50  ","1st Qu.:3.75  ","Median :4.20  ","Mean   :4.24  ","3rd Qu.:4.60  ","Max.   :7.10  ",NA
+"X5227.Lactate","Min.   : 0.700  ","1st Qu.: 1.400  ","Median : 2.500  ","Mean   : 3.641  ","3rd Qu.: 4.200  ","Max.   :20.000  ","NA's   :2  "
+"X5228.Methemoglobin","Min.   :0.00  ","1st Qu.:0.45  ","Median :0.70  ","Mean   :0.78  ","3rd Qu.:1.10  ","Max.   :2.00  ",NA
+"X5230.Sodium..Whole.Blood","Min.   :123.0  ","1st Qu.:134.0  ","Median :137.0  ","Mean   :137.2  ","3rd Qu.:141.0  ","Max.   :149.0  ",NA
+"X5235.pCO2","Min.   : 16.30  ","1st Qu.: 37.15  ","Median : 44.90  ","Mean   : 46.61  ","3rd Qu.: 54.20  ","Max.   :139.00  ",NA
+"X5237.pH","Min.   :6.812  ","1st Qu.:7.261  ","Median :7.338  ","Mean   :7.309  ","3rd Qu.:7.391  ","Max.   :7.513  ",NA
+"X5239.pO2","Min.   : 19.80  ","1st Qu.: 41.80  ","Median : 67.80  ","Mean   : 88.25  ","3rd Qu.:122.50  ","Max.   :296.00  ",NA
+"X5248.Bicarbonate","Min.   : 5.80  ","1st Qu.:18.90  ","Median :21.90  ","Mean   :21.67  ","3rd Qu.:25.10  ","Max.   :37.70  ",NA
+"X5249.Base.Excess","Min.   :-26.200  ","1st Qu.: -5.900  ","Median : -2.600  ","Mean   : -2.972  ","3rd Qu.:  1.550  ","Max.   : 18.800  ","NA's   :1  "
+"X5252.Oxygen.Saturation","Min.   : 19.00  ","1st Qu.: 67.05  ","Median : 91.00  ","Mean   : 81.07  ","3rd Qu.: 99.15  ","Max.   :100.00  ",NA
+"X5306.Prealbumin","Min.   :0.0000  ","1st Qu.:0.0785  ","Median :0.1100  ","Mean   :0.1092  ","3rd Qu.:0.1365  ","Max.   :0.2810  ","NA's   :8  "
+"X5492.Basophils","Min.   :0.0000  ","1st Qu.:0.1750  ","Median :0.3000  ","Mean   :0.3341  ","3rd Qu.:0.4000  ","Max.   :1.8000  ","NA's   :7  "
+"X5493.Basophils.Count","Min.   :0.00000  ","1st Qu.:0.02000  ","Median :0.03000  ","Mean   :0.03908  ","3rd Qu.:0.04000  ","Max.   :0.40000  ","NA's   :8  "
+"X5626.C.Reactive.Protein","Min.   :  0.34  ","1st Qu.:  4.00  ","Median :  7.00  ","Mean   : 18.11  ","3rd Qu.: 19.25  ","Max.   :128.00  ","NA's   :33  "
+"X6236.Cholinesterase","Min.   : 2407  ","1st Qu.: 4540  ","Median : 5769  ","Mean   : 5887  ","3rd Qu.: 7106  ","Max.   :10522  ","NA's   :8  "
+"X6261.Cystatin.C","Min.   :0.530  ","1st Qu.:0.885  ","Median :1.130  ","Mean   :1.181  ","3rd Qu.:1.410  ","Max.   :2.880  ","NA's   :8  "
+"X6316.Monocyte.Count","Min.   :0.0000  ","1st Qu.:0.2400  ","Median :0.5700  ","Mean   :0.7239  ","3rd Qu.:0.9950  ","Max.   :3.1700  ","NA's   :8  "
+"X6317.Monocytes","Min.   : 0.300  ","1st Qu.: 2.700  ","Median : 5.100  ","Mean   : 5.963  ","3rd Qu.: 7.900  ","Max.   :20.700  ","NA's   :11  "
+"X6318.Eosinophil.Count","Min.   :0.0000  ","1st Qu.:0.0300  ","Median :0.0500  ","Mean   :0.1062  ","3rd Qu.:0.1200  ","Max.   :0.8200  ","NA's   :8  "
+"X6471.Serum.hemolytic.index","Min.   :  0.00  ","1st Qu.:  0.00  ","Median :  0.00  ","Mean   : 13.98  ","3rd Qu.:  9.00  ","Max.   :386.00  ","NA's   :8  "
+"X6472.Serum..icteric.index","Min.   :0.0000  ","1st Qu.:0.0000  ","Median :0.0000  ","Mean   :0.5172  ","3rd Qu.:1.0000  ","Max.   :8.0000  ","NA's   :8  "
+"X6473.Lipase","Min.   : 0.00  ","1st Qu.: 0.00  ","Median : 0.00  ","Mean   : 6.46  ","3rd Qu.: 8.00  ","Max.   :41.00  ","NA's   :8  "

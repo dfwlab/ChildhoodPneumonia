@@ -1,0 +1,1165 @@
+Source,Target,Diseases
+Asthenozoospermia,Hemoglobin,Diseases of the genitourinary system
+Chemical and Drug Induced Liver Injury,Hemoglobin,Diseases of the immune system
+Splenic Diseases,Hemoglobin,Diseases of the blood or blood-forming organs
+"Diabetes Mellitus, Type 2",Hemoglobin,Diseases of the blood or blood-forming organs
+Body Weight,Hemoglobin,Other
+"Anemia, Sickle Cell",Hemoglobin,Diseases of the blood or blood-forming organs
+Hemolysis,Hemoglobin,Other
+Brain Diseases,Hemoglobin,Diseases of the nervous system
+Coma,Hemoglobin,Other
+Growth Disorders,Hemoglobin,Other
+"Heart Defects, Congenital",Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Hematologic Diseases,Hemoglobin,Diseases of the blood or blood-forming organs
+Anemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Hyperthyroidism,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Drug-Related Side Effects and Adverse Reactions,Hemoglobin,Other
+Adenoma,Hemoglobin,Other
+"Diabetes Mellitus, Experimental",Hemoglobin,Diseases of the blood or blood-forming organs
+Hyperglycemia,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Hypoxia,Hemoglobin,Other
+Brain Injuries,Hemoglobin,Diseases of the nervous system
+Agranulocytosis,Hemoglobin,Diseases of the immune system
+Hypertrophy,Hemoglobin,Other
+Heart Diseases,Hemoglobin,Diseases of the circulatory system
+Dyslipidemias,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Insulin Resistance,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Anemia, Hemolytic",Hemoglobin,Diseases of the blood or blood-forming organs
+Testicular Diseases,Hemoglobin,Diseases of the genitourinary system
+Chromosome Aberrations,Hemoglobin,Diseases of the genitourinary system
+beta-Thalassemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Ataxia,Hemoglobin,Diseases of the nervous system
+Dizziness,Hemoglobin,Other
+Hepatomegaly,Hemoglobin,Other
+Glucose Intolerance,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Febrile Neutropenia,Hemoglobin,Diseases of the immune system
+Diabetes Complications,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Diabetes Mellitus,Hemoglobin,Diseases of the blood or blood-forming organs
+Apnea,Hemoglobin,Other
+Arsenic Poisoning,Hemoglobin,Other
+Cognition Disorders,Hemoglobin,Other
+"Carcinoma, Ehrlich Tumor",Hemoglobin,Neoplasms
+Brain Edema,Hemoglobin,Diseases of the nervous system
+Kidney Diseases,Hemoglobin,Diseases of the genitourinary system
+Cardiovascular Diseases,Hemoglobin,Diseases of the circulatory system
+Albuminuria,Hemoglobin,Other
+Neoplasms,Hemoglobin,Neoplasms
+Lymphopenia,Hemoglobin,Diseases of the immune system
+Birth Weight,Hemoglobin,Other
+Occupational Diseases,Hemoglobin,Other
+"Neovascularization, Pathologic",Hemoglobin,Other
+"Lead Poisoning, Nervous System, Childhood",Hemoglobin,Other
+Myocardial Infarction,Hemoglobin,Diseases of the circulatory system
+Inflammatory Bowel Diseases,Hemoglobin,Diseases of the digestive system
+Prenatal Exposure Delayed Effects,Hemoglobin,Other
+Cerebral Hemorrhage,Hemoglobin,Diseases of the nervous system
+Renal Insufficiency,Hemoglobin,Diseases of the genitourinary system
+Inflammation,Hemoglobin,Diseases of the immune system
+Uterine Cervical Neoplasms,Hemoglobin,Other
+"Malaria, Falciparum",Hemoglobin,Certain infectious or parasitic diseases
+Hemorrhage,Hemoglobin,Diseases of the blood or blood-forming organs
+Obesity,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Anemia, Hemolytic, Autoimmune",Hemoglobin,Diseases of the blood or blood-forming organs
+Atrophy,Hemoglobin,Diseases of the blood or blood-forming organs
+Subarachnoid Hemorrhage,Hemoglobin,Diseases of the blood or blood-forming organs
+Erectile Dysfunction,Hemoglobin,Other
+"Liver Cirrhosis, Experimental",Hemoglobin,Diseases of the digestive system
+"Fluorosis, Dental",Hemoglobin,Diseases of the nervous system
+"Hepatitis C, Chronic",Hemoglobin,Certain infectious or parasitic diseases
+"Lipodystrophy, Familial Partial",Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Anemia, Hypochromic",Hemoglobin,Diseases of the blood or blood-forming organs
+"Asthma, Occupational",Hemoglobin,Diseases of the respiratory system
+Hypertension,Hemoglobin,Diseases of the circulatory system
+Hypothyroidism,Hemoglobin,Diseases of the circulatory system
+"Micronuclei, Chromosome-Defective",Hemoglobin,Other
+Acute Kidney Injury,Hemoglobin,Diseases of the genitourinary system
+Breast Neoplasms,Hemoglobin,Neoplasms
+"Enterocolitis, Necrotizing",Hemoglobin,Other
+Exanthema,Hemoglobin,Certain infectious or parasitic diseases
+Diabetic Nephropathies,Hemoglobin,Diseases of the genitourinary system
+Glossitis,Hemoglobin,Diseases of the digestive system
+"Anemia, Megaloblastic",Hemoglobin,Diseases of the blood or blood-forming organs
+Nephrogenic Fibrosing Dermopathy,Hemoglobin,Diseases of the skin
+Metabolic Syndrome,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Hypertension, Pulmonary",Hemoglobin,Diseases of the circulatory system
+"Anemia, hypochromic microcytic",Hemoglobin,Diseases of the blood or blood-forming organs
+Lung Neoplasms,Hemoglobin,Neoplasms
+"Carcinoma, Non-Small-Cell Lung",Hemoglobin,Neoplasms
+Autistic Disorder,Hemoglobin,Other
+Heavy Metal Poisoning,Hemoglobin,Other
+Developmental Disabilities,Hemoglobin,Other
+Atherosclerosis,Hemoglobin,Diseases of the circulatory system
+"Hypersensitivity, Delayed",Hemoglobin,Diseases of the immune system
+"Anemia, Iron-Deficiency",Hemoglobin,Diseases of the blood or blood-forming organs
+Chloracne,Hemoglobin,Diseases of the skin
+Prostatic Neoplasms,Hemoglobin,Neoplasms
+Hemolytic-Uremic Syndrome,Hemoglobin,Diseases of the blood or blood-forming organs
+HIV Seropositivity,Hemoglobin,Diseases of the immune system
+Liver Neoplasms,Hemoglobin,Neoplasms
+Bradycardia,Hemoglobin,Other
+Lead Poisoning,Hemoglobin,Other
+Hemochromatosis,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Venous Thromboembolism,Hemoglobin,Diseases of the circulatory system
+Depressive Disorder,Hemoglobin,Other
+"Vasospasm, Intracranial",Hemoglobin,Other
+Skin Diseases,Hemoglobin,Diseases of the skin
+Multiple Myeloma,Hemoglobin,Neoplasms
+Budd-Chiari Syndrome,Hemoglobin,Diseases of the digestive system
+Learning Disabilities,Hemoglobin,Other
+Neutropenia,Hemoglobin,Diseases of the immune system
+"Liver Failure, Acute",Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Bone Marrow Diseases,Hemoglobin,Diseases of the blood or blood-forming organs
+Respiratory Tract Infections,Hemoglobin,Diseases of the respiratory system
+Cyanosis,Hemoglobin,Other
+Hypotension,Hemoglobin,Diseases of the circulatory system
+Osteomyelitis,Hemoglobin,Other
+"Anemia, Macrocytic",Hemoglobin,Diseases of the blood or blood-forming organs
+Reperfusion Injury,Hemoglobin,Diseases of the digestive system
+Cataract,Hemoglobin,Other
+"Anemia, Aplastic",Hemoglobin,Diseases of the blood or blood-forming organs
+Liver Diseases,Hemoglobin,Diseases of the digestive system
+alpha-Thalassemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Urinary Bladder Neoplasms,Hemoglobin,Neoplasms
+Chromosome 5q Deletion Syndrome,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Abdominal Pain,Hemoglobin,Other
+"Colitis, Ulcerative",Hemoglobin,Diseases of the digestive system
+Adenocarcinoma,Hemoglobin,Neoplasms
+Hemoglobinuria,Hemoglobin,Diseases of the blood or blood-forming organs
+Poisoning,Hemoglobin,Other
+Hematoma,Hemoglobin,Other
+Azoospermia,Hemoglobin,Diseases of the genitourinary system
+Multiple Sclerosis,Hemoglobin,Diseases of the nervous system
+"Hypertrophy, Left Ventricular",Hemoglobin,Other
+Methemoglobinemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Hypogonadism,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Pain, Postoperative",Hemoglobin,Other
+"Amino Acid Metabolism, Inborn Errors",Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Influenza, Human",Hemoglobin,Certain infectious or parasitic diseases
+Angina Pectoris,Hemoglobin,Diseases of the circulatory system
+Necrosis,Hemoglobin,Other
+Hodgkin Disease,Hemoglobin,Neoplasms
+Coronary Disease,Hemoglobin,Diseases of the circulatory system
+Alcoholism,Hemoglobin,Other
+Polycythemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Hyperalgesia,Hemoglobin,Other
+Central Nervous System Diseases,Hemoglobin,Diseases of the nervous system
+"Lymphoma, Non-Hodgkin",Hemoglobin,Neoplasms
+Pneumonia,Hemoglobin,Diseases of the respiratory system
+Seizures,Hemoglobin,Diseases of the nervous system
+"Anemia, Diamond-Blackfan",Hemoglobin,Diseases of the blood or blood-forming organs
+"Constriction, Pathologic",Hemoglobin,Diseases of the genitourinary system
+"Leishmaniasis, Visceral",Hemoglobin,Certain infectious or parasitic diseases
+Alopecia,Hemoglobin,Diseases of the skin
+Thrombosis,Hemoglobin,Diseases of the blood or blood-forming organs
+Cardiomyopathies,Hemoglobin,Diseases of the circulatory system
+Hepatic Veno-Occlusive Disease,Hemoglobin,Diseases of the digestive system
+"Adenocarcinoma, Clear Cell",Hemoglobin,Neoplasms
+Heinz Body Anemias,Hemoglobin,Diseases of the blood or blood-forming organs
+Pituitary Neoplasms,Hemoglobin,Neoplasms
+Fever,Hemoglobin,Other
+Brain Ischemia,Hemoglobin,Diseases of the nervous system
+Acne Vulgaris,Hemoglobin,Diseases of the skin
+"Arthritis, Psoriatic",Hemoglobin,Other
+Acquired Immunodeficiency Syndrome,Hemoglobin,Diseases of the digestive system
+Ageusia,Hemoglobin,Other
+Epidermolysis Bullosa,Hemoglobin,Diseases of the skin
+Anorexia,Hemoglobin,Other
+Uremia,Hemoglobin,Diseases of the genitourinary system
+Cerebral Infarction,Hemoglobin,Diseases of the nervous system
+HIV Infections,Hemoglobin,Diseases of the immune system
+Acidosis,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Carcinoma, Squamous Cell",Hemoglobin,Other
+Fatigue,Hemoglobin,Other
+Anaphylaxis,Hemoglobin,Diseases of the immune system
+"Red-Cell Aplasia, Pure",Hemoglobin,Diseases of the blood or blood-forming organs
+Chest Pain,Hemoglobin,Other
+"Liver Diseases, Alcoholic",Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Thalassemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Back Pain,Hemoglobin,Other
+"Kidney Failure, Chronic",Hemoglobin,Diseases of the genitourinary system
+Headache,Hemoglobin,Other
+Alkalosis,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Carcinoma, Bronchogenic",Hemoglobin,Neoplasms
+Gastrointestinal Diseases,Hemoglobin,Diseases of the digestive system
+Agammaglobulinemia,Hemoglobin,Diseases of the immune system
+"Anemia, Sideroblastic",Hemoglobin,Diseases of the blood or blood-forming organs
+Optic Neuritis,Hemoglobin,Other
+Hemoglobinopathies,Hemoglobin,Diseases of the blood or blood-forming organs
+Intestinal Diseases,Hemoglobin,Diseases of the digestive system
+"Disease Models, Animal",Hemoglobin,Other
+Pericardial Effusion,Hemoglobin,Diseases of the circulatory system
+"Adenoma, Liver Cell",Hemoglobin,Other
+Clinical Deterioration,Hemoglobin,Other
+"Burns, Chemical",Hemoglobin,Other
+Weight Loss,Hemoglobin,Other
+Malaria,Hemoglobin,Certain infectious or parasitic diseases
+Dyspnea,Hemoglobin,Other
+Tuberculosis,Hemoglobin,Certain infectious or parasitic diseases
+Fetal Growth Retardation,Hemoglobin,Other
+Glucose Metabolism Disorders,Hemoglobin,Other
+Hyperbilirubinemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Leukopenia,Hemoglobin,Diseases of the immune system
+Osteoporosis,Hemoglobin,Other
+Proteinuria,Hemoglobin,Other
+Hepatitis C,Hemoglobin,Certain infectious or parasitic diseases
+"Diabetes Mellitus, Type 1",Hemoglobin,Diseases of the blood or blood-forming organs
+Diabetic Retinopathy,Hemoglobin,Other
+Atrial Fibrillation,Hemoglobin,Diseases of the circulatory system
+Hyperlipidemias,Hemoglobin,Other
+Peripheral Nervous System Diseases,Hemoglobin,Diseases of the nervous system
+Pharyngitis,Hemoglobin,Diseases of the respiratory system
+"Arthritis, Rheumatoid",Hemoglobin,Other
+Hypoglycemia,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Ventricular Premature Complexes,Hemoglobin,Diseases of the circulatory system
+Body Weight Changes,Hemoglobin,Other
+Nose Neoplasms,Hemoglobin,Neoplasms
+Parasomnias,Hemoglobin,Other
+Parkinsonian Disorders,Hemoglobin,Diseases of the nervous system
+Gastrointestinal Hemorrhage,Hemoglobin,Diseases of the blood or blood-forming organs
+Splenomegaly,Hemoglobin,Other
+Venous Thrombosis,Hemoglobin,Diseases of the nervous system
+Heart Arrest,Hemoglobin,Diseases of the circulatory system
+Helicobacter Infections,Hemoglobin,Neoplasms
+Postoperative Complications,Hemoglobin,Other
+Disease Susceptibility,Hemoglobin,Diseases of the immune system
+Manganese Poisoning,Hemoglobin,Other
+Pancytopenia,Hemoglobin,Diseases of the blood or blood-forming organs
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",Hemoglobin,Neoplasms
+"Hearing Loss, Sensorineural",Hemoglobin,Other
+Child Nutrition Disorders,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Vascular Diseases,Hemoglobin,Diseases of the circulatory system
+"Chromosome 7, monosomy",Hemoglobin,Diseases of the genitourinary system
+Diarrhea,Hemoglobin,Other
+Gram-Positive Bacterial Infections,Hemoglobin,Other
+Oligospermia,Hemoglobin,Diseases of the genitourinary system
+Thrombocytosis,Hemoglobin,Diseases of the blood or blood-forming organs
+Flushing,Hemoglobin,Other
+Vitamin B 12 Deficiency,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Thrombocytopenia,Hemoglobin,Diseases of the blood or blood-forming organs
+Cri-du-Chat Syndrome,Hemoglobin,Other
+"Sarcoma, Experimental",Hemoglobin,Neoplasms
+Myocardial Ischemia,Hemoglobin,Diseases of the circulatory system
+Pancreatitis,Hemoglobin,Certain infectious or parasitic diseases
+Paraneoplastic Syndromes,Hemoglobin,Other
+Neurotoxicity Syndromes,Hemoglobin,Diseases of the nervous system
+Myelodysplastic Syndromes,Hemoglobin,Neoplasms
+Vision Disorders,Hemoglobin,Other
+Kidney Neoplasms,Hemoglobin,Neoplasms
+Nerve Degeneration,Hemoglobin,Diseases of the nervous system
+Hepatitis,Hemoglobin,Certain infectious or parasitic diseases
+Substance Withdrawal Syndrome,Hemoglobin,Other
+Head and Neck Neoplasms,Hemoglobin,Neoplasms
+Hyperpigmentation,Hemoglobin,Other
+"Ventricular Dysfunction, Left",Hemoglobin,Diseases of the circulatory system
+Heart Failure,Hemoglobin,Diseases of the circulatory system
+Wilms Tumor,Hemoglobin,Neoplasms
+"Adenocarcinoma, Mucinous",Hemoglobin,Neoplasms
+Fetal Diseases,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+AIDS-Related Complex,Hemoglobin,Certain infectious or parasitic diseases
+Hearing Loss,Hemoglobin,Other
+Astrocytoma,Hemoglobin,Neoplasms
+Hyperventilation,Hemoglobin,Other
+"Pneumonia, Pneumocystis",Hemoglobin,Diseases of the respiratory system
+Cytomegalovirus Infections,Hemoglobin,Certain infectious or parasitic diseases
+Staphylococcal Infections,Hemoglobin,Certain infectious or parasitic diseases
+Carcinoma,Hemoglobin,Neoplasms
+Nausea,Hemoglobin,Certain infectious or parasitic diseases
+Hemosiderosis,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Gout,Hemoglobin,Other
+"Lupus Erythematosus, Systemic",Hemoglobin,Diseases of the immune system
+Onycholysis,Hemoglobin,Other
+Paresthesia,Hemoglobin,Certain infectious or parasitic diseases
+Polycythemia Vera,Hemoglobin,Neoplasms
+Leukocytosis,Hemoglobin,Other
+Neurobehavioral Manifestations,Hemoglobin,Diseases of the nervous system
+Epistaxis,Hemoglobin,Other
+Hyperinsulinism,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Weight Gain,Hemoglobin,Other
+Heart Injuries,Hemoglobin,Diseases of the circulatory system
+Hypothermia,Hemoglobin,Other
+"Renal Insufficiency, Chronic",Hemoglobin,Diseases of the genitourinary system
+"Metabolism, Inborn Errors",Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Retinal Degeneration,Hemoglobin,Other
+Hyperhomocysteinemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Taste Disorders,Hemoglobin,Diseases of the nervous system
+"Carcinoma, Ductal, Breast",Hemoglobin,Neoplasms
+Hyperplasia,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Ulcer,Hemoglobin,Diseases of the immune system
+Hyperkalemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Vitamin A Deficiency,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Scleroderma, Localized",Hemoglobin,Diseases of the skin
+Infant Nutrition Disorders,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Graves Disease,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Dermatitis, Exfoliative",Hemoglobin,Diseases of the skin
+Vaginal Neoplasms,Hemoglobin,Neoplasms
+Somatosensory Disorders,Hemoglobin,Diseases of the nervous system
+Jaundice,Hemoglobin,Diseases of the skin
+"Shock, Hemorrhagic",Hemoglobin,Other
+Hirsutism,Hemoglobin,Diseases of the skin
+AIDS-Related Opportunistic Infections,Hemoglobin,Diseases of the immune system
+Emphysema,Hemoglobin,Diseases of the respiratory system
+Rhabdomyolysis,Hemoglobin,Diseases of the nervous system
+Hypocalcemia,Hemoglobin,Diseases of the blood or blood-forming organs
+Gastroesophageal Reflux,Hemoglobin,Diseases of the digestive system
+Arthralgia,Hemoglobin,Other
+"Kidney Tubular Necrosis, Acute",Hemoglobin,Diseases of the genitourinary system
+Lethargy,Hemoglobin,Other
+"Carcinoma, Small Cell",Hemoglobin,Neoplasms
+Movement Disorders,Hemoglobin,Diseases of the nervous system
+Photosensitivity Disorders,Hemoglobin,Diseases of the immune system
+Liver Cirrhosis,Hemoglobin,Diseases of the digestive system
+Fetal Death,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Ventricular Dysfunction,Hemoglobin,Diseases of the circulatory system
+Pulmonary Edema,Hemoglobin,Diseases of the respiratory system
+Neurologic Manifestations,Hemoglobin,Diseases of the nervous system
+Metabolic Diseases,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Leukemia, Promyelocytic, Acute",Hemoglobin,Diseases of the blood or blood-forming organs
+Tooth Discoloration,Hemoglobin,Other
+Ventricular Fibrillation,Hemoglobin,Other
+Multiple Organ Failure,Hemoglobin,Other
+Vomiting,Hemoglobin,Other
+Drug Hypersensitivity,Hemoglobin,Diseases of the immune system
+Nail Diseases,Hemoglobin,Other
+Hypotrichosis,Hemoglobin,Other
+Mucositis,Hemoglobin,Diseases of the immune system
+Pain,Hemoglobin,Other
+Cellulitis,Hemoglobin,Diseases of the immune system
+Salmonella Infections,Hemoglobin,Certain infectious or parasitic diseases
+Hemorrhagic Disorders,Hemoglobin,Diseases of the blood or blood-forming organs
+Sialorrhea,Hemoglobin,Diseases of the digestive system
+Stroke,Hemoglobin,Other
+Thyroid Diseases,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+"Paraparesis, Tropical Spastic",Hemoglobin,Diseases of the nervous system
+Peptic Ulcer,Hemoglobin,Diseases of the immune system
+Medulloblastoma,Hemoglobin,Other
+Hyperuricemia,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Phlebitis,Hemoglobin,Diseases of the circulatory system
+Pancreatic Neoplasms,Hemoglobin,Neoplasms
+Stomach Neoplasms,Hemoglobin,Neoplasms
+Uterine Neoplasms,Hemoglobin,Neoplasms
+Non-alcoholic Fatty Liver Disease,Hemoglobin,Diseases of the digestive system
+Tremor,Hemoglobin,Diseases of the nervous system
+Muscular Diseases,Hemoglobin,Other
+Sleep Initiation and Maintenance Disorders,Hemoglobin,Other
+Zollinger-Ellison Syndrome,Hemoglobin,"Endocrine, nutritional or metabolic diseases"
+Mental Disorders,Hemoglobin,Diseases of the nervous system
+Pancreatic Diseases,Hemoglobin,Diseases of the digestive system
+Pruritus,Hemoglobin,Diseases of the skin
+Liver Failure,Hemoglobin,Diseases of the digestive system
+Hypesthesia,Hemoglobin,Other
+Stomach Diseases,Hemoglobin,Diseases of the digestive system
+Mouth Diseases,Hemoglobin,Other
+Lymphoma,Hemoglobin,Neoplasms
+Ovarian Neoplasms,Hemoglobin,Neoplasms
+Intestinal Neoplasms,Hemoglobin,Neoplasms
+Pericarditis,Hemoglobin,Diseases of the circulatory system
+Neoplasm Metastasis,Hemoglobin,Neoplasms
+Lung Diseases,Hemoglobin,Diseases of the respiratory system
+Mouth Neoplasms,Hemoglobin,Neoplasms
+COVID-19,Oxygen Saturation,Diseases of the respiratory system
+Orthomyxoviridae Infections,Oxygen Saturation,Certain infectious or parasitic diseases
+"Sleep Apnea, Obstructive",Oxygen Saturation,Other
+Hepatomegaly,Oxygen Saturation,Other
+"Acidosis, Lactic",Oxygen Saturation,Other
+"Melanoma, Experimental",Oxygen Saturation,"Endocrine, nutritional or metabolic diseases"
+Necrosis,Oxygen Saturation,Other
+Lymphatic Metastasis,Oxygen Saturation,Diseases of the immune system
+Apnea,Oxygen Saturation,Other
+Pulmonary Edema,Oxygen Saturation,Diseases of the respiratory system
+"Pain, Postoperative",Oxygen Saturation,Other
+Atrioventricular Block,Oxygen Saturation,Diseases of the circulatory system
+Chest Pain,Oxygen Saturation,Other
+Heart Arrest,Oxygen Saturation,Diseases of the circulatory system
+Obesity,Oxygen Saturation,"Endocrine, nutritional or metabolic diseases"
+Confusion,Oxygen Saturation,Other
+"Cardiac Output, Low",Oxygen Saturation,Diseases of the circulatory system
+Angioedema,Oxygen Saturation,Diseases of the immune system
+Hypotension,Oxygen Saturation,Diseases of the circulatory system
+Atrial Fibrillation,Oxygen Saturation,Diseases of the circulatory system
+Heart Failure,Oxygen Saturation,Diseases of the circulatory system
+Respiratory Insufficiency,Oxygen Saturation,Diseases of the respiratory system
+Bradycardia,Oxygen Saturation,Other
+Drug Overdose,Oxygen Saturation,Other
+Nerve Degeneration,Oxygen Saturation,Diseases of the nervous system
+"Hypertension, Pulmonary",Oxygen Saturation,Diseases of the circulatory system
+Fetal Diseases,Oxygen Saturation,"Endocrine, nutritional or metabolic diseases"
+Myoclonus,Oxygen Saturation,Diseases of the nervous system
+Pain,Oxygen Saturation,Other
+Priapism,Oxygen Saturation,Diseases of the genitourinary system
+Methemoglobinemia,Oxygen Saturation,Diseases of the blood or blood-forming organs
+Dyslipidemias,Oxygen Saturation,"Endocrine, nutritional or metabolic diseases"
+Breast Neoplasms,Oxygen Saturation,Neoplasms
+Spasm,Oxygen Saturation,Diseases of the nervous system
+Postoperative Nausea and Vomiting,Oxygen Saturation,Other
+Acute Chest Syndrome,Oxygen Saturation,Diseases of the blood or blood-forming organs
+Postoperative Complications,Oxygen Saturation,Other
+Chemical and Drug Induced Liver Injury,Oxygen Saturation,Diseases of the immune system
+Intracranial Hypertension,Oxygen Saturation,Diseases of the blood or blood-forming organs
+Heroin Dependence,Oxygen Saturation,Diseases of the circulatory system
+Migraine Disorders,Oxygen Saturation,Other
+Hypertension,Oxygen Saturation,Diseases of the circulatory system
+Edema,Oxygen Saturation,Other
+Cardiomyopathies,Oxygen Saturation,Diseases of the circulatory system
+Asthma,Oxygen Saturation,Diseases of the respiratory system
+Respiratory Paralysis,Oxygen Saturation,Diseases of the respiratory system
+Sleep Apnea Syndromes,Oxygen Saturation,Diseases of the respiratory system
+Cocaine-Related Disorders,Oxygen Saturation,Other
+Muscle Weakness,Oxygen Saturation,Other
+Hypoxia,Oxygen Saturation,Other
+Disorders of Excessive Somnolence,Oxygen Saturation,Other
+Airway Obstruction,Oxygen Saturation,Diseases of the respiratory system
+Dizziness,Oxygen Saturation,Other
+Lung Diseases,Oxygen Saturation,Diseases of the respiratory system
+Malignant Hyperthermia,Oxygen Saturation,Other
+"Pulmonary Disease, Chronic Obstructive",Oxygen Saturation,Diseases of the respiratory system
+Atrial Premature Complexes,Oxygen Saturation,Diseases of the circulatory system
+Ascites,Oxygen Saturation,Other
+Altitude Sickness,Oxygen Saturation,Other
+Hemoglobinopathies,Oxygen Saturation,Diseases of the blood or blood-forming organs
+"Pneumonia, Viral",Oxygen Saturation,Diseases of the respiratory system
+Drug-Related Side Effects and Adverse Reactions,Oxygen Saturation,Other
+Non-alcoholic Fatty Liver Disease,Oxygen Saturation,Diseases of the digestive system
+Melanoma,Oxygen Saturation,Diseases of the respiratory system
+Seizures,Oxygen Saturation,Diseases of the nervous system
+Myocardial Infarction,Oxygen Saturation,Diseases of the circulatory system
+Delirium,Oxygen Saturation,Diseases of the nervous system
+Sinoatrial Block,Oxygen Saturation,Other
+Hyperventilation,Oxygen Saturation,Other
+Cognition Disorders,Oxygen Saturation,Other
+Ventricular Premature Complexes,Oxygen Saturation,Diseases of the circulatory system
+Tachycardia,Oxygen Saturation,Other
+Fatty Liver,Oxygen Saturation,Diseases of the digestive system
+Substance Withdrawal Syndrome,Oxygen Saturation,Other
+"Disease Models, Animal",Oxygen Saturation,Other
+Nausea,Oxygen Saturation,Certain infectious or parasitic diseases
+Cheyne-Stokes Respiration,Oxygen Saturation,Diseases of the digestive system
+Tetralogy of Fallot,Oxygen Saturation,Other
+Hypokalemia,Oxygen Saturation,Diseases of the blood or blood-forming organs
+Labor Pain,Oxygen Saturation,Other
+"Hypoxia, Brain",Oxygen Saturation,Diseases of the nervous system
+Vomiting,Oxygen Saturation,Other
+"Tachycardia, Ventricular",Oxygen Saturation,Diseases of the nervous system
+Trismus,Oxygen Saturation,Other
+Ischemia,Oxygen Saturation,Diseases of the blood or blood-forming organs
+"Lung Diseases, Obstructive",Oxygen Saturation,Diseases of the respiratory system
+Paresthesia,Oxygen Saturation,Certain infectious or parasitic diseases
+Polycythemia Vera,Oxygen Saturation,Neoplasms
+Weight Loss,Oxygen Saturation,Other
+Mood Disorders,Oxygen Saturation,Other
+Renal Insufficiency,Oxygen Saturation,Diseases of the genitourinary system
+Hyperkalemia,Oxygen Saturation,Diseases of the blood or blood-forming organs
+Hyperinsulinism,Oxygen Saturation,"Endocrine, nutritional or metabolic diseases"
+"Liver Failure, Acute",Oxygen Saturation,"Endocrine, nutritional or metabolic diseases"
+Laryngismus,Oxygen Saturation,Diseases of the respiratory system
+Snoring,Oxygen Saturation,Diseases of the respiratory system
+Pruritus,Oxygen Saturation,Diseases of the skin
+Ventricular Dysfunction,Oxygen Saturation,Diseases of the circulatory system
+Liver Diseases,Oxygen Saturation,Diseases of the digestive system
+Tremor,Oxygen Saturation,Diseases of the nervous system
+Sepsis,Oxygen Saturation,Diseases of the blood or blood-forming organs
+Psychomotor Agitation,Oxygen Saturation,Diseases of the nervous system
+Muscle Spasticity,Oxygen Saturation,Other
+Ventricular Fibrillation,Oxygen Saturation,Other
+Metabolic Syndrome,Oxygen Saturation,"Endocrine, nutritional or metabolic diseases"
+Respiration Disorders,Oxygen Saturation,Diseases of the respiratory system
+Sleep Initiation and Maintenance Disorders,Oxygen Saturation,Other
+Quadriplegia,Oxygen Saturation,Diseases of the nervous system
+Urticaria,Oxygen Saturation,Diseases of the skin
+Hepatomegaly,Urea,Other
+Albuminuria,Urea,Other
+Kidney Diseases,Urea,Diseases of the genitourinary system
+Myelodysplastic Syndromes,Urea,Neoplasms
+Chemical and Drug Induced Liver Injury,Urea,Diseases of the immune system
+Acute Kidney Injury,Urea,Diseases of the genitourinary system
+"Disease Models, Animal",Urea,Other
+Hyperuricemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Fibrosis,Urea,Other
+Bile Duct Diseases,Urea,Other
+"Diabetes Mellitus, Experimental",Urea,Diseases of the blood or blood-forming organs
+Hyperoxaluria,Urea,Other
+Death,Urea,Other
+Fish Diseases,Urea,"Endocrine, nutritional or metabolic diseases"
+Brain Diseases,Urea,Diseases of the nervous system
+Hypertension,Urea,Diseases of the circulatory system
+Weight Loss,Urea,Other
+"Glomerulosclerosis, Focal Segmental",Urea,Other
+Edema,Urea,Other
+Autism Spectrum Disorder,Urea,Other
+Hyperglycemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Ataxia,Urea,Diseases of the nervous system
+Inflammation,Urea,Diseases of the immune system
+Brain Injuries,Urea,Diseases of the nervous system
+Diabetic Nephropathies,Urea,Diseases of the genitourinary system
+Fatty Liver,Urea,Diseases of the digestive system
+Hypertrophy,Urea,Other
+Azotemia,Urea,Other
+Reye Syndrome,Urea,Diseases of the nervous system
+Fasciculation,Urea,Other
+Breast Neoplasms,Urea,Neoplasms
+Hyperargininemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Hypercholesterolemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Adrenal Insufficiency,Urea,Diseases of the genitourinary system
+"Aortic Aneurysm, Thoracic",Urea,Diseases of the circulatory system
+Hyperplasia,Urea,"Endocrine, nutritional or metabolic diseases"
+Necrosis,Urea,Other
+Hyponatremia,Urea,"Endocrine, nutritional or metabolic diseases"
+Drug-Related Side Effects and Adverse Reactions,Urea,Other
+"Dilatation, Pathologic",Urea,Other
+Dyslipidemias,Urea,"Endocrine, nutritional or metabolic diseases"
+"Diabetes Insipidus, Nephrogenic",Urea,Diseases of the genitourinary system
+Coronary Artery Disease,Urea,Diseases of the skin
+Kidney Neoplasms,Urea,Neoplasms
+Atrophy,Urea,Diseases of the blood or blood-forming organs
+Helicobacter Infections,Urea,Neoplasms
+"Kidney Tubular Necrosis, Acute",Urea,Diseases of the genitourinary system
+Poisoning,Urea,Other
+"Metabolism, Inborn Errors",Urea,"Endocrine, nutritional or metabolic diseases"
+Proteinuria,Urea,Other
+"Gastritis, Atrophic",Urea,Diseases of the digestive system
+Arsenic Poisoning,Urea,Other
+"Diabetes Mellitus, Type 2",Urea,Diseases of the blood or blood-forming organs
+Consciousness Disorders,Urea,Other
+"Adenoma, Liver Cell",Urea,Other
+Body Weight Changes,Urea,Other
+Diabetes Mellitus,Urea,Diseases of the blood or blood-forming organs
+Cardiovascular Diseases,Urea,Diseases of the circulatory system
+Polyuria,Urea,Diseases of the genitourinary system
+Cardiomegaly,Urea,Diseases of the circulatory system
+Arthritis,Urea,Other
+Anorexia,Urea,Other
+Heart Diseases,Urea,Diseases of the circulatory system
+Neoplasm Metastasis,Urea,Neoplasms
+Leishmaniasis,Urea,Other
+Renal Insufficiency,Urea,Diseases of the genitourinary system
+Stomach Ulcer,Urea,Diseases of the immune system
+Seizures,Urea,Diseases of the nervous system
+Memory Disorders,Urea,Other
+Amphetamine-Related Disorders,Urea,Other
+Hodgkin Disease,Urea,Neoplasms
+"Kidney Failure, Chronic",Urea,Diseases of the genitourinary system
+Hyperammonemia,Urea,"Endocrine, nutritional or metabolic diseases"
+"Encephalomyelitis, Autoimmune, Experimental",Urea,Diseases of the immune system
+Catalepsy,Urea,Other
+Glomerulonephritis,Urea,Diseases of the genitourinary system
+Nephrosis,Urea,Diseases of the genitourinary system
+Reperfusion Injury,Urea,Diseases of the digestive system
+Hypothyroidism,Urea,Diseases of the circulatory system
+Neural Tube Defects,Urea,Other
+Adenocarcinoma of Lung,Urea,Diseases of the respiratory system
+"Shock, Septic",Urea,Neoplasms
+Prenatal Exposure Delayed Effects,Urea,Other
+Ascites,Urea,Other
+Lung Neoplasms,Urea,Neoplasms
+Esophageal Squamous Cell Carcinoma,Urea,Neoplasms
+Hypotension,Urea,Diseases of the circulatory system
+Feeding and Eating Disorders,Urea,"Endocrine, nutritional or metabolic diseases"
+"Arthritis, Experimental",Urea,Other
+Vasculitis,Urea,Other
+"Liver Failure, Acute",Urea,"Endocrine, nutritional or metabolic diseases"
+Hyperlipidemias,Urea,Other
+Acquired Immunodeficiency Syndrome,Urea,Diseases of the digestive system
+Carbamoyl-Phosphate Synthase I Deficiency Disease,Urea,"Endocrine, nutritional or metabolic diseases"
+Nephrotic Syndrome,Urea,Diseases of the genitourinary system
+Liver Diseases,Urea,Diseases of the digestive system
+Kidney Cortex Necrosis,Urea,Diseases of the genitourinary system
+Coma,Urea,Other
+Occupational Diseases,Urea,Other
+Diabetes Complications,Urea,"Endocrine, nutritional or metabolic diseases"
+Lead Poisoning,Urea,Other
+Fanconi Syndrome,Urea,Diseases of the genitourinary system
+"Amyloidosis, Familial",Urea,Other
+"Diabetes Mellitus, Type 1",Urea,Diseases of the blood or blood-forming organs
+Delirium,Urea,Diseases of the nervous system
+Mercury Poisoning,Urea,Other
+Central Nervous System Neoplasms,Urea,Neoplasms
+Brain Ischemia,Urea,Diseases of the nervous system
+Endotoxemia,Urea,Neoplasms
+Bone Diseases,Urea,Other
+Gastroesophageal Reflux,Urea,Diseases of the digestive system
+Anemia,Urea,Diseases of the blood or blood-forming organs
+Heat Stroke,Urea,Diseases of the blood or blood-forming organs
+Candidiasis,Urea,Certain infectious or parasitic diseases
+Blood Coagulation Disorders,Urea,Diseases of the blood or blood-forming organs
+"Dermatitis, Allergic Contact",Urea,Diseases of the skin
+Muscular Diseases,Urea,Other
+Ovarian Neoplasms,Urea,Neoplasms
+Diarrhea,Urea,Other
+Glioma,Urea,Neoplasms
+Rhabdomyolysis,Urea,Diseases of the nervous system
+Hypertriglyceridemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Fever,Urea,Other
+Nephritis,Urea,Diseases of the genitourinary system
+Nephrolithiasis,Urea,Diseases of the genitourinary system
+Atrial Fibrillation,Urea,Diseases of the circulatory system
+"Dermatitis, Atopic",Urea,Diseases of the skin
+Asthenozoospermia,Urea,Diseases of the genitourinary system
+Amyotrophic Lateral Sclerosis,Urea,Diseases of the nervous system
+"Liver Cirrhosis, Experimental",Urea,Diseases of the digestive system
+"Pain, Intractable",Urea,Other
+Carbon Tetrachloride Poisoning,Urea,Other
+Rhinitis,Urea,Diseases of the respiratory system
+Dehydration,Urea,Other
+"Hypertension, Pulmonary",Urea,Diseases of the circulatory system
+Constipation,Urea,Other
+Cerebral Hemorrhage,Urea,Diseases of the nervous system
+"Nephritis, Hereditary",Urea,Diseases of the genitourinary system
+Autoimmune Diseases,Urea,Diseases of the immune system
+Atherosclerosis,Urea,Diseases of the circulatory system
+Heart Failure,Urea,Diseases of the circulatory system
+Polycystic Kidney Diseases,Urea,Diseases of the genitourinary system
+Abdominal Pain,Urea,Other
+Gram-Negative Bacterial Infections,Urea,Diseases of the genitourinary system
+Alkalosis,Urea,"Endocrine, nutritional or metabolic diseases"
+"Acidosis, Lactic",Urea,Other
+Vision Disorders,Urea,Other
+Cholestasis,Urea,Diseases of the digestive system
+"Carcinoid Tumors, Intestinal",Urea,Neoplasms
+Urinary Retention,Urea,Diseases of the genitourinary system
+Persistent Fetal Circulation Syndrome,Urea,"Endocrine, nutritional or metabolic diseases"
+Leukemia,Urea,Neoplasms
+"Fibromatosis, Abdominal",Urea,Neoplasms
+Urinary Bladder Diseases,Urea,Diseases of the genitourinary system
+Glycosuria,Urea,Diseases of the genitourinary system
+Adenocarcinoma,Urea,Neoplasms
+Mycoplasma Infections,Urea,Certain infectious or parasitic diseases
+"Colitis, Ulcerative",Urea,Diseases of the digestive system
+Growth Disorders,Urea,Other
+"Glomerulonephritis, Membranous",Urea,Diseases of the genitourinary system
+Obesity,Urea,"Endocrine, nutritional or metabolic diseases"
+Cyanosis,Urea,Other
+"Carcinoma, Ehrlich Tumor",Urea,Neoplasms
+"Leishmaniasis, Cutaneous",Urea,Diseases of the skin
+Hypercalcemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Polycythemia,Urea,Diseases of the blood or blood-forming organs
+Lung Diseases,Urea,Diseases of the respiratory system
+Gingival Hyperplasia,Urea,Other
+"Brain Diseases, Metabolic",Urea,"Endocrine, nutritional or metabolic diseases"
+"Meningitis, Cryptococcal",Urea,Diseases of the nervous system
+"Nephrosis, Lipoid",Urea,Diseases of the genitourinary system
+"Ductus Arteriosus, Patent",Urea,Other
+Hypophosphatemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Hepatic Encephalopathy,Urea,Diseases of the digestive system
+Myoglobinuria,Urea,Diseases of the genitourinary system
+Eosinophilia,Urea,Diseases of the immune system
+Ischemia,Urea,Diseases of the blood or blood-forming organs
+Pruritus,Urea,Diseases of the skin
+"Nephritis, Interstitial",Urea,Diseases of the genitourinary system
+Myocardial Infarction,Urea,Diseases of the circulatory system
+"Acidosis, Renal Tubular",Urea,Diseases of the genitourinary system
+Cognition Disorders,Urea,Other
+Emaciation,Urea,"Endocrine, nutritional or metabolic diseases"
+Headache,Urea,Other
+Neurotoxicity Syndromes,Urea,Diseases of the nervous system
+Cataract,Urea,Other
+Aneuploidy,Urea,Other
+Hyperkalemia,Urea,Diseases of the blood or blood-forming organs
+"Hearing Loss, Bilateral",Urea,Other
+Inappropriate ADH Syndrome,Urea,Other
+Uremia,Urea,Diseases of the genitourinary system
+Amyloidosis,Urea,"Endocrine, nutritional or metabolic diseases"
+"Bronchitis, Chronic",Urea,Diseases of the respiratory system
+Cardiomyopathies,Urea,Diseases of the circulatory system
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",Urea,Neoplasms
+Brain Edema,Urea,Diseases of the nervous system
+Propionic Acidemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Hemolysis,Urea,Other
+Disseminated Intravascular Coagulation,Urea,Diseases of the blood or blood-forming organs
+"Carcinoma, Hepatocellular",Urea,Neoplasms
+Urinary Tract Infections,Urea,Diseases of the genitourinary system
+Blindness,Urea,Other
+Adenoma,Urea,Other
+Bone Marrow Diseases,Urea,Diseases of the blood or blood-forming organs
+Kidney Papillary Necrosis,Urea,Diseases of the genitourinary system
+Liver Failure,Urea,Diseases of the digestive system
+"Neoplasms, Experimental",Urea,Diseases of the genitourinary system
+Epilepsy,Urea,Neoplasms
+Bradycardia,Urea,Other
+Hearing Disorders,Urea,Other
+Ketosis,Urea,Other
+"Urea Cycle Disorders, Inborn",Urea,Diseases of the genitourinary system
+Gastrointestinal Diseases,Urea,Diseases of the digestive system
+Diabetes Insipidus,Urea,Diseases of the genitourinary system
+Hypokalemia,Urea,Diseases of the blood or blood-forming organs
+Pain,Urea,Other
+Dyspnea,Urea,Other
+Herpes Genitalis,Urea,Diseases of the genitourinary system
+"Arthritis, Rheumatoid",Urea,Other
+Central Nervous System Diseases,Urea,Diseases of the nervous system
+"Hypotension, Orthostatic",Urea,Diseases of the circulatory system
+Hemoglobinopathies,Urea,Diseases of the blood or blood-forming organs
+Splenomegaly,Urea,Other
+Hyperemia,Urea,Diseases of the blood or blood-forming organs
+Sepsis,Urea,Diseases of the blood or blood-forming organs
+Intestinal Diseases,Urea,Diseases of the digestive system
+Hemorrhage,Urea,Diseases of the blood or blood-forming organs
+Erythema,Urea,Diseases of the skin
+Neurodevelopmental Disorders,Urea,Diseases of the nervous system
+Hyperinsulinism,Urea,"Endocrine, nutritional or metabolic diseases"
+Cachexia,Urea,Other
+Lupus Nephritis,Urea,Diseases of the genitourinary system
+Glucose Intolerance,Urea,"Endocrine, nutritional or metabolic diseases"
+Bacterial Infections,Urea,Certain infectious or parasitic diseases
+Anaphylaxis,Urea,Diseases of the immune system
+Hematologic Diseases,Urea,Diseases of the blood or blood-forming organs
+Vomiting,Urea,Other
+Insulin Resistance,Urea,"Endocrine, nutritional or metabolic diseases"
+"Shock, Hemorrhagic",Urea,Other
+Balkan Nephropathy,Urea,Diseases of the genitourinary system
+Neoplasm Invasiveness,Urea,Neoplasms
+Fibrosarcoma,Urea,Neoplasms
+Kidney Calculi,Urea,Diseases of the genitourinary system
+Liver Cirrhosis,Urea,Diseases of the digestive system
+Nervous System Diseases,Urea,Diseases of the genitourinary system
+Urinary Bladder Neoplasms,Urea,Neoplasms
+Immunologic Deficiency Syndromes,Urea,Diseases of the nervous system
+Eye Hemorrhage,Urea,Other
+Cadmium Poisoning,Urea,Other
+Endometrial Neoplasms,Urea,Neoplasms
+Precursor Cell Lymphoblastic Leukemia-Lymphoma,Urea,Neoplasms
+"Dyskinesia, Drug-Induced",Urea,Other
+Hypoglycemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Neoplasms,Urea,Neoplasms
+Testicular Diseases,Urea,Diseases of the genitourinary system
+Ornithine Carbamoyltransferase Deficiency Disease,Urea,Diseases of the skin
+Systemic carnitine deficiency,Urea,Other
+Hematuria,Urea,Other
+Jaundice,Urea,Diseases of the skin
+Hallucinations,Urea,Other
+Neurilemmoma,Urea,Neoplasms
+Thrombosis,Urea,Diseases of the blood or blood-forming organs
+Eczema,Urea,Diseases of the skin
+Leukopenia,Urea,Diseases of the immune system
+Atrioventricular Block,Urea,Diseases of the circulatory system
+Oligohydramnios,Urea,Other
+"Pulmonary Disease, Chronic Obstructive",Urea,Diseases of the respiratory system
+N-acetyl glutamate synthetase deficiency,Urea,Other
+Disease Progression,Urea,Other
+Hypoproteinemia,Urea,Diseases of the blood or blood-forming organs
+Purpura,Urea,Diseases of the skin
+Osteoarthritis,Urea,Other
+Staphylococcal Infections,Urea,Certain infectious or parasitic diseases
+Intestinal Neoplasms,Urea,Neoplasms
+"Ventricular Dysfunction, Left",Urea,Diseases of the circulatory system
+Biliary Tract Neoplasms,Urea,Other
+Weight Gain,Urea,Other
+Hypomagnesemia primary,Urea,Neoplasms
+Hyperphosphatemia,Urea,Diseases of the genitourinary system
+Disorders of Excessive Somnolence,Urea,Other
+"Hypertrophy, Left Ventricular",Urea,Other
+Osteomalacia,Urea,Other
+Myoclonus,Urea,Diseases of the nervous system
+"Encephalitis, Viral",Urea,Certain infectious or parasitic diseases
+Hemosiderosis,Urea,"Endocrine, nutritional or metabolic diseases"
+Confusion,Urea,Other
+Eye Diseases,Urea,Other
+"Obstetric Labor, Premature",Urea,Other
+Hypoalbuminemia,Urea,"Endocrine, nutritional or metabolic diseases"
+Neuroleptic Malignant Syndrome,Urea,Diseases of the nervous system
+Familial Mediterranean Fever,Urea,Diseases of the immune system
+"Hypertension, Malignant",Urea,Diseases of the circulatory system
+"Carcinoma, Adenosquamous",Urea,Diseases of the circulatory system
+AIDS-Related Opportunistic Infections,Urea,Diseases of the immune system
+Carcinoma,Urea,Neoplasms
+Nausea,Urea,Certain infectious or parasitic diseases
+Hearing Loss,Urea,Other
+"Arrhythmias, Cardiac",Urea,Diseases of the circulatory system
+Mesenchymoma,Urea,Neoplasms
+Hypothermia,Urea,Other
+Respiratory Sounds,Urea,Other
+Erectile Dysfunction,Urea,Other
+Pyelonephritis,Urea,Diseases of the genitourinary system
+Uterine Cervicitis,Urea,Diseases of the genitourinary system
+Pemphigus,Urea,Diseases of the skin
+Penile Diseases,Urea,Diseases of the genitourinary system
+Paralysis,Urea,Other
+Cystitis,Urea,Diseases of the genitourinary system
+Polycythemia Vera,Urea,Neoplasms
+Prenatal Injuries,Urea,Other
+Schizophrenia,Urea,Other
+Eye Abnormalities,Urea,Other
+"Carcinoma, Transitional Cell",Urea,Other
+Papilloma,Urea,Neoplasms
+Demyelinating Diseases,Urea,Diseases of the nervous system
+"Trypanosomiasis, African",Urea,Certain infectious or parasitic diseases
+"Renal Insufficiency, Chronic",Urea,Diseases of the genitourinary system
+Gastrointestinal Hemorrhage,Urea,Diseases of the blood or blood-forming organs
+Urinary Bladder Calculi,Urea,Diseases of the genitourinary system
+"Leukemia, Promyelocytic, Acute",Urea,Diseases of the blood or blood-forming organs
+Sunburn,Urea,Diseases of the skin
+Hypersensitivity,Urea,Diseases of the skin
+Lethargy,Urea,Other
+Diabetic Neuropathies,Urea,Diseases of the nervous system
+Hepatitis,Urea,Certain infectious or parasitic diseases
+Leukoencephalopathies,Urea,Diseases of the nervous system
+Herpes Zoster,Urea,Certain infectious or parasitic diseases
+Oligodendroglioma,Urea,Neoplasms
+Radiation Injuries,Urea,Other
+Ileus,Urea,Diseases of the digestive system
+Oliguria,Urea,Diseases of the genitourinary system
+Oligospermia,Urea,Diseases of the genitourinary system
+Tremor,Urea,Diseases of the nervous system
+Hypercalciuria,Urea,Diseases of the genitourinary system
+Mood Disorders,Urea,Other
+Gastrointestinal Neoplasms,Urea,Neoplasms
+Liddle Syndrome,Urea,Neoplasms
+HIV Infections,Urea,Diseases of the immune system
+Urination Disorders,Urea,Diseases of the genitourinary system
+Hemolytic-Uremic Syndrome,Urea,Diseases of the blood or blood-forming organs
+"Epilepsies, Partial",Urea,Diseases of the nervous system
+Osteosarcoma,Urea,Neoplasms
+Glaucoma,Urea,Other
+Chromosome Breakage,Urea,Other
+"Pneumonia, Pneumocystis",Urea,Diseases of the respiratory system
+Peptic Ulcer,Urea,Diseases of the immune system
+"Carcinoma, Squamous Cell",Urea,Other
+Stroke,Urea,Other
+Liver Neoplasms,Urea,Neoplasms
+Neuroblastoma,Urea,Diseases of the nervous system
+Flatulence,Urea,Diseases of the digestive system
+"Neuroectodermal Tumor, Melanotic",Urea,Neoplasms
+Mental Disorders,Urea,Diseases of the nervous system
+Neutropenia,Urea,Diseases of the immune system
+Skin Abnormalities,Urea,Diseases of the skin
+Movement Disorders,Urea,Diseases of the nervous system
+Vulvovaginitis,Urea,Diseases of the skin
+"Tuberculosis, Pulmonary",Urea,Diseases of the respiratory system
+Spinal Cord Diseases,Urea,Diseases of the nervous system
+Polydipsia,Urea,Other
+Urinary Calculi,Urea,Diseases of the genitourinary system
+"Infertility, Female",Urea,Other
+Pericarditis,Urea,Diseases of the circulatory system
+Multiple Myeloma,Urea,Neoplasms
+Hydronephrosis,Urea,Diseases of the genitourinary system
+Pneumonia,Urea,Diseases of the respiratory system
+Dizziness,Urea,Other
+Stomatitis,Urea,Diseases of the digestive system
+Drug Overdose,Urea,Other
+Pancytopenia,Urea,Diseases of the blood or blood-forming organs
+Skin Neoplasms,Urea,Neoplasms
+"Glaucoma, Angle-Closure",Urea,Neoplasms
+"Liver Neoplasms, Experimental",Urea,Neoplasms
+"Neuroectodermal Tumors, Primitive",Urea,Neoplasms
+Gout,Urea,Other
+Fetal Death,Urea,"Endocrine, nutritional or metabolic diseases"
+Pancreatic Diseases,Urea,Diseases of the digestive system
+Splenic Diseases,Urea,Diseases of the blood or blood-forming organs
+Lung Injury,Urea,Diseases of the respiratory system
+Ovarian Diseases,Urea,Other
+Myeloproliferative Disorders,Urea,Neoplasms
+Ureteral Obstruction,Urea,Diseases of the genitourinary system
+Pulmonary Aspergillosis,Urea,Certain infectious or parasitic diseases
+Thrombocytopenia,Urea,Diseases of the blood or blood-forming organs
+Pericardial Effusion,Urea,Diseases of the circulatory system
+Dyspepsia,Urea,Diseases of the digestive system
+Exanthema,Urea,Certain infectious or parasitic diseases
+Peripheral Nervous System Diseases,Urea,Diseases of the nervous system
+"Lung Diseases, Interstitial",Urea,Diseases of the respiratory system
+Thyroid Neoplasms,Urea,"Endocrine, nutritional or metabolic diseases"
+Heart Block,Urea,Neoplasms
+Pneumocystis Infections,Urea,Diseases of the circulatory system
+Ulcer,Urea,Diseases of the immune system
+Raynaud Disease,Urea,Diseases of the circulatory system
+Stomach Diseases,Urea,Diseases of the digestive system
+Nephrosclerosis,Urea,Diseases of the circulatory system
+Uterine Diseases,Urea,Diseases of the genitourinary system
+Plant Poisoning,Urea,Other
+"Leukemia, Myeloid, Acute",Urea,Neoplasms
+Stomach Neoplasms,Urea,Neoplasms
+Pleural Effusion,Urea,Diseases of the respiratory system
+Pancreatic Neoplasms,Urea,Neoplasms
+Taste Disorders,Urea,Diseases of the nervous system
+Sialorrhea,Urea,Diseases of the digestive system
+Myopia,Urea,Other
+"Epilepsy, Tonic-Clonic",Urea,Diseases of the nervous system
+Phlebitis,Urea,Diseases of the circulatory system
+Prostatic Neoplasms,Urea,Neoplasms
+Papilledema,Urea,Other
+"Gait Disorders, Neurologic",Urea,Diseases of the nervous system
+Vaginitis,Urea,Diseases of the genitourinary system
+Photophobia,Urea,Other
+Retinal Diseases,Urea,Other
+"Reflex, Abnormal",Urea,Other
+Asthenozoospermia,Uric acid,Diseases of the genitourinary system
+Chromosome Aberrations,Uric acid,Diseases of the genitourinary system
+"Cholestasis, Intrahepatic",Uric acid,Diseases of the genitourinary system
+Hyperuricemia,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Fibrosis,Uric acid,Other
+Bile Duct Diseases,Uric acid,Other
+Chemical and Drug Induced Liver Injury,Uric acid,Diseases of the immune system
+Prostatic Hyperplasia,Uric acid,Diseases of the genitourinary system
+Hyperglycemia,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Kidney Diseases,Uric acid,Diseases of the genitourinary system
+Acute Kidney Injury,Uric acid,Diseases of the genitourinary system
+Brain Injuries,Uric acid,Diseases of the nervous system
+Drug-Related Side Effects and Adverse Reactions,Uric acid,Other
+Azotemia,Uric acid,Other
+Fasciculation,Uric acid,Other
+Arthritis,Uric acid,Other
+Necrosis,Uric acid,Other
+"Diabetes Mellitus, Experimental",Uric acid,Diseases of the blood or blood-forming organs
+Hypoparathyroidism,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Myocardial Infarction,Uric acid,Diseases of the circulatory system
+Coronary Artery Disease,Uric acid,Diseases of the skin
+"Arthritis, Experimental",Uric acid,Other
+"Gout, HPRT-Related",Uric acid,Other
+Urinary Bladder Calculi,Uric acid,Diseases of the genitourinary system
+"Disease Models, Animal",Uric acid,Other
+Dyslipidemias,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Gout,Uric acid,Other
+Cardiovascular Diseases,Uric acid,Diseases of the circulatory system
+Heart Failure,Uric acid,Diseases of the circulatory system
+Hypokalemia,Uric acid,Diseases of the blood or blood-forming organs
+Colitis,Uric acid,Other
+Hodgkin Disease,Uric acid,Neoplasms
+Edema,Uric acid,Other
+Central Nervous System Diseases,Uric acid,Diseases of the nervous system
+Pre-Eclampsia,Uric acid,Other
+Metabolic Diseases,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Hyperinsulinism,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Nephrosis,Uric acid,Diseases of the genitourinary system
+Hypertension,Uric acid,Diseases of the circulatory system
+Diabetes Complications,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Vascular Diseases,Uric acid,Diseases of the circulatory system
+Cardiomegaly,Uric acid,Diseases of the circulatory system
+"Arthritis, Gouty",Uric acid,Other
+Obesity,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Stroke,Uric acid,Other
+Osteoporosis,Uric acid,Other
+Acidosis,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Hemolysis,Uric acid,Other
+"Diabetes Mellitus, Type 1",Uric acid,Diseases of the blood or blood-forming organs
+"Amino Acid Metabolism, Inborn Errors",Uric acid,"Endocrine, nutritional or metabolic diseases"
+Dizziness,Uric acid,Other
+Metabolic Syndrome,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Muscle Weakness,Uric acid,Other
+Dyspepsia,Uric acid,Diseases of the digestive system
+Nephrotic Syndrome,Uric acid,Diseases of the genitourinary system
+Fanconi Syndrome,Uric acid,Diseases of the genitourinary system
+Hypercholesterolemia,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Mouth Neoplasms,Uric acid,Neoplasms
+"Anemia, Hemolytic",Uric acid,Diseases of the blood or blood-forming organs
+HIV Seropositivity,Uric acid,Diseases of the immune system
+Alopecia,Uric acid,Diseases of the skin
+Nephrolithiasis,Uric acid,Diseases of the genitourinary system
+Flank Pain,Uric acid,Other
+Arthralgia,Uric acid,Other
+Renal Insufficiency,Uric acid,Diseases of the genitourinary system
+Osteosarcoma,Uric acid,Neoplasms
+Pain,Uric acid,Other
+Cough,Uric acid,Other
+Bartter Syndrome,Uric acid,Diseases of the genitourinary system
+Liver Cirrhosis,Uric acid,Diseases of the digestive system
+Hyperkinesis,Uric acid,Other
+Urinary Calculi,Uric acid,Diseases of the genitourinary system
+Kidney Calculi,Uric acid,Diseases of the genitourinary system
+Inappropriate ADH Syndrome,Uric acid,Other
+HIV Infections,Uric acid,Diseases of the immune system
+Amyloidosis,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Anemia,Uric acid,Diseases of the blood or blood-forming organs
+Acquired Immunodeficiency Syndrome,Uric acid,Diseases of the digestive system
+"Hypertension, Renal",Uric acid,Diseases of the genitourinary system
+"Carcinoma, Islet Cell",Uric acid,Diseases of the circulatory system
+Urinary Tract Infections,Uric acid,Diseases of the genitourinary system
+"Arrhythmias, Cardiac",Uric acid,Diseases of the circulatory system
+Cardiomyopathies,Uric acid,Diseases of the circulatory system
+Asthma,Uric acid,Diseases of the respiratory system
+Anorexia,Uric acid,Other
+"Nephritis, Interstitial",Uric acid,Diseases of the genitourinary system
+Dyspnea,Uric acid,Other
+Gastrointestinal Diseases,Uric acid,Diseases of the digestive system
+Hypoalbuminemia,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Inflammation,Uric acid,Diseases of the immune system
+Pancytopenia,Uric acid,Diseases of the blood or blood-forming organs
+Bacterial Infections,Uric acid,Certain infectious or parasitic diseases
+Hematologic Diseases,Uric acid,Diseases of the blood or blood-forming organs
+Proteinuria,Uric acid,Other
+Nephrocalcinosis,Uric acid,Diseases of the genitourinary system
+Weight Loss,Uric acid,Other
+Ischemia,Uric acid,Diseases of the blood or blood-forming organs
+Reperfusion Injury,Uric acid,Diseases of the digestive system
+Urolithiasis,Uric acid,Diseases of the genitourinary system
+Colonic Diseases,Uric acid,Diseases of the digestive system
+Diabetic Nephropathies,Uric acid,Diseases of the genitourinary system
+Erythema,Uric acid,Diseases of the skin
+Nerve Degeneration,Uric acid,Diseases of the nervous system
+Renal hypouricemia,Uric acid,Diseases of the genitourinary system
+Potassium Deficiency,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Hyperlipidemias,Uric acid,Other
+"Diabetes Mellitus, Type 2",Uric acid,Diseases of the blood or blood-forming organs
+Guanidinoacetate methyltransferase deficiency,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Fatigue,Uric acid,Other
+Pneumonia,Uric acid,Diseases of the respiratory system
+Paralysis,Uric acid,Other
+Flushing,Uric acid,Other
+Hypophosphatemia,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Hypertriglyceridemia,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Hypercalcemia,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Osteoarthritis,Uric acid,Other
+"Hepatitis C, Chronic",Uric acid,Certain infectious or parasitic diseases
+Diarrhea,Uric acid,Other
+Hematuria,Uric acid,Other
+Water-Electrolyte Imbalance,Uric acid,Other
+Osteomalacia,Uric acid,Other
+Mydriasis,Uric acid,Other
+Hypotension,Uric acid,Diseases of the circulatory system
+Pancreatitis,Uric acid,Certain infectious or parasitic diseases
+Familial Mediterranean Fever,Uric acid,Diseases of the immune system
+Leukopenia,Uric acid,Diseases of the immune system
+AIDS-Related Complex,Uric acid,Certain infectious or parasitic diseases
+Mood Disorders,Uric acid,Other
+Headache,Uric acid,Other
+Exanthema,Uric acid,Certain infectious or parasitic diseases
+Erectile Dysfunction,Uric acid,Other
+Hypocalcemia,Uric acid,Diseases of the blood or blood-forming organs
+Testicular Diseases,Uric acid,Diseases of the genitourinary system
+Fatty Liver,Uric acid,Diseases of the digestive system
+Insulin Resistance,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Vasculitis,Uric acid,Other
+Polyuria,Uric acid,Diseases of the genitourinary system
+Neurotoxicity Syndromes,Uric acid,Diseases of the nervous system
+Glucose Intolerance,Uric acid,"Endocrine, nutritional or metabolic diseases"
+Hypersensitivity,Uric acid,Diseases of the skin
+Lung Neoplasms,Uric acid,Neoplasms
+"Colitis, Ulcerative",Uric acid,Diseases of the digestive system
+Intellectual Disability,Uric acid,Other
+Hypercalciuria,Uric acid,Diseases of the genitourinary system
+Hyperkalemia,Uric acid,Diseases of the blood or blood-forming organs
+Urination Disorders,Uric acid,Diseases of the genitourinary system
+"Tuberculosis, Pulmonary",Uric acid,Diseases of the respiratory system
+Renal Colic,Uric acid,Diseases of the genitourinary system
+Hydronephrosis,Uric acid,Diseases of the genitourinary system
+Seizures,Uric acid,Diseases of the nervous system
+Peripheral Nervous System Diseases,Uric acid,Diseases of the nervous system
+Myoglobinuria,Uric acid,Diseases of the genitourinary system
+Cholecystitis,Uric acid,Diseases of the digestive system
+Nausea,Uric acid,Certain infectious or parasitic diseases
+Flatulence,Uric acid,Diseases of the digestive system
+Muscle Cramp,Uric acid,Other
+"Micronuclei, Chromosome-Defective",Uric acid,Other
+"Xanthinuria, Type II",Uric acid,Diseases of the genitourinary system
+Multiple Organ Failure,Uric acid,Other
+"Pulmonary Disease, Chronic Obstructive",Uric acid,Diseases of the respiratory system
+Hyperphosphatemia,Uric acid,Diseases of the genitourinary system
+Weight Gain,Uric acid,Other
+Ureteral Obstruction,Uric acid,Diseases of the genitourinary system
+Cholelithiasis,Uric acid,Diseases of the digestive system
+Lethargy,Uric acid,Other
+"Purpura, Thrombocytopenic, Idiopathic",Uric acid,Diseases of the blood or blood-forming organs
+Tachycardia,Uric acid,Other
+Mental Disorders,Uric acid,Diseases of the nervous system
+Oligospermia,Uric acid,Diseases of the genitourinary system
+Tremor,Uric acid,Diseases of the nervous system
+Pancreatic Diseases,Uric acid,Diseases of the digestive system
+Gastrointestinal Hemorrhage,Uric acid,Diseases of the blood or blood-forming organs
+Thrombocytopenia,Uric acid,Diseases of the blood or blood-forming organs
+Pruritus,Uric acid,Diseases of the skin
+Raynaud Disease,Uric acid,Diseases of the circulatory system
+Tumor Lysis Syndrome,Uric acid,Neoplasms
+Gastrointestinal Neoplasms,Uric acid,Neoplasms
+Mouth Diseases,Uric acid,Other
+Myositis,Uric acid,Other
+Vomiting,Uric acid,Other
+Skin Diseases,Uric acid,Diseases of the skin
+Pericarditis,Uric acid,Diseases of the circulatory system
+Fibrosis,Lipase,Other
+Hyperglycemia,Lipase,"Endocrine, nutritional or metabolic diseases"
+Testicular Diseases,Lipase,Diseases of the genitourinary system
+"Diabetes Mellitus, Type 2",Lipase,Diseases of the blood or blood-forming organs
+Necrosis,Lipase,Other
+"Disease Models, Animal",Lipase,Other
+Chemical and Drug Induced Liver Injury,Lipase,Diseases of the immune system
+Fatty Liver,Lipase,Diseases of the digestive system
+Inflammation,Lipase,Diseases of the immune system
+Hepatomegaly,Lipase,Other
+Glucose Intolerance,Lipase,"Endocrine, nutritional or metabolic diseases"
+Hyperthyroidism,Lipase,"Endocrine, nutritional or metabolic diseases"
+Nausea,Lipase,Certain infectious or parasitic diseases
+Fever,Lipase,Other
+Non-alcoholic Fatty Liver Disease,Lipase,Diseases of the digestive system
+Demyelinating Diseases,Lipase,Diseases of the nervous system
+Substance Withdrawal Syndrome,Lipase,Other
+Abdominal Pain,Lipase,Other
+Hypercholesterolemia,Lipase,"Endocrine, nutritional or metabolic diseases"
+Hyperinsulinism,Lipase,"Endocrine, nutritional or metabolic diseases"
+Diabetic Nephropathies,Lipase,Diseases of the genitourinary system
+Dyslipidemias,Lipase,"Endocrine, nutritional or metabolic diseases"
+Memory Disorders,Lipase,Other
+Drug-Related Side Effects and Adverse Reactions,Lipase,Other
+Hyperalgesia,Lipase,Other
+"Dyskinesia, Drug-Induced",Lipase,Other
+"Diabetes Mellitus, Experimental",Lipase,Diseases of the blood or blood-forming organs
+Cardiomyopathies,Lipase,Diseases of the circulatory system
+Obesity,Lipase,"Endocrine, nutritional or metabolic diseases"
+Hypertension,Lipase,Diseases of the circulatory system
+Hypertriglyceridemia,Lipase,"Endocrine, nutritional or metabolic diseases"
+Insulin Resistance,Lipase,"Endocrine, nutritional or metabolic diseases"
+Prenatal Injuries,Lipase,Other
+Heart Diseases,Lipase,Diseases of the circulatory system
+Hyperkinesis,Lipase,Other
+Hyperlipidemias,Lipase,Other
+Edema,Lipase,Other
+Hypotrichosis,Lipase,Other
+Drug Hypersensitivity,Lipase,Diseases of the immune system
+"Liver Cirrhosis, Experimental",Lipase,Diseases of the digestive system
+HIV Infections,Lipase,Diseases of the immune system
+Hypertrophy,Lipase,Other
+Cardiomegaly,Lipase,Diseases of the circulatory system
+Diabetes Complications,Lipase,"Endocrine, nutritional or metabolic diseases"
+"Kidney Tubular Necrosis, Acute",Lipase,Diseases of the genitourinary system
+Diarrhea,Lipase,Other
+Exanthema,Lipase,Certain infectious or parasitic diseases
+Weight Gain,Lipase,Other
+Pancreatitis,Lipase,Certain infectious or parasitic diseases
+Atherosclerosis,Lipase,Diseases of the circulatory system
+Coronary Disease,Lipase,Diseases of the circulatory system
+Weight Loss,Lipase,Other
+Schizophrenia,Lipase,"Mental, behavioural or neurodevelopmental disorders"
+Hepatitis C,Lipase,Certain infectious or parasitic diseases
+Anorexia,Lipase,Other
+Pancreatic Diseases,Lipase,Diseases of the digestive system
+Hyperemia,Lipase,Diseases of the blood or blood-forming organs
+Coronary Artery Disease,Lipase,Diseases of the skin
+Hyperbilirubinemia,Lipase,Diseases of the blood or blood-forming organs
+Death,Lipase,Other
+Myocardial Infarction,Lipase,Diseases of the circulatory system
+Diabetes Mellitus,Lipase,Diseases of the blood or blood-forming organs
+Lung Injury,Lipase,Diseases of the respiratory system
+Endotoxemia,Lipase,Neoplasms
+Prostatic Neoplasms,Lipase,Neoplasms
+"Acidosis, Lactic",Lipase,Other
+Cachexia,Lipase,Other
+Nephrotic Syndrome,Lipase,Diseases of the genitourinary system
+Muscle Weakness,Lipase,Other
+Hyperplasia,Lipase,"Endocrine, nutritional or metabolic diseases"
+Ascites,Lipase,Other
+Heart Failure,Lipase,Diseases of the circulatory system
+Liver Cirrhosis,Lipase,Diseases of the digestive system
+Depressive Disorder,Lipase,"Mental, behavioural or neurodevelopmental disorders"
+Constipation,Lipase,Other
+Hemorrhage,Lipase,Diseases of the blood or blood-forming organs
+Prenatal Exposure Delayed Effects,Lipase,Other
+Kidney Diseases,Lipase,Diseases of the genitourinary system
+Osteoporosis,Lipase,Diseases of the musculoskeletal system or connective tissue
+Cholestasis,Lipase,Diseases of the digestive system
+Nephrocalcinosis,Lipase,Diseases of the genitourinary system
+Flatulence,Lipase,Diseases of the digestive system
+Lethargy,Lipase,Other
+"Hypertension, Pulmonary",Lipase,Diseases of the circulatory system
+Spasm,Lipase,Diseases of the nervous system
+Cholelithiasis,Lipase,Diseases of the digestive system
+Liver Failure,Lipase,Diseases of the digestive system
+Gastrointestinal Diseases,Lipase,Diseases of the digestive system
+"Hypertrophy, Left Ventricular",Lipase,Other
+Vomiting,Lipase,Other
+Tremor,Lipase,Diseases of the nervous system
+Nephrosis,Lipase,Diseases of the genitourinary system
+Leukemia,Lipase,Neoplasms
+"Ventricular Dysfunction, Left",Lipase,Diseases of the circulatory system
+Nephritis,Lipase,Diseases of the genitourinary system
+Muscular Diseases,Lipase,Diseases of the musculoskeletal system or connective tissue
+Pain,Lipase,Other
+Dyspepsia,Lipase,Diseases of the digestive system
+Lymphoma,Lipase,Neoplasms
+Proteinuria,Lipase,Other
+Osteoarthritis,Lipase,Diseases of the musculoskeletal system or connective tissue
+Flushing,Lipase,Other
